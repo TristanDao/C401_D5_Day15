@@ -11,3 +11,4 @@ Nông Nguyễn Thành - 2A202600250
 ## Documents Structure
 - Worksheets 1 to 4: `worksheets/`
 - Presentation slide: `PPT_D5_Day15.pdf`
+- Đánh giá cho nhóm khác: `judgement_for_D4.pdf`
