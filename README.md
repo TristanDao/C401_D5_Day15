@@ -7,3 +7,7 @@ Hồ Sỹ Minh Hà - 2A202600060
 Nông Nguyễn Thành - 2A202600250
 Đào Văn Công - 2A202600031
 Đặng Hồ Hải - 2A202600020
+
+## Documents Structure
+- Worksheets 1 to 4: `worksheets/`
+- Presentation slide: `PPT_D5_Day15.pdf`
